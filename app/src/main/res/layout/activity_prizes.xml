@@ -104,7 +104,7 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="35dp"
-        app:layout_constraintBottom_toTopOf="@+id/btnBackMenu"
+        app:layout_constraintBottom_toTopOf="@+id/btnBackMenu1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.503"
         app:layout_constraintStart_toStartOf="parent"
@@ -112,7 +112,7 @@
         tools:text="4th to 16th places: (Total amount in USD – (1°+2°+3°)/13)" />
 
     <Button
-        android:id="@+id/btnBackMenu"
+        android:id="@+id/btnBackMenu1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
